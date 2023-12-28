@@ -1,0 +1,11 @@
+.card-button {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
+.card-button_smaller {
+  width: 52px;
+  height: 52px;
+}
+
+/*# sourceMappingURL=buttons.css.map */
